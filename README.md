@@ -62,6 +62,11 @@ Just **age, education, lifestyle, family history, and simple diagnoses** like *"
 
 
 Model Files (Not in Repo)
+
 File: models/dementia_risk_rf_best.pkl
+
 Size: ~1.2 GB
+
 Reason for exclusion: Exceeds GitHub file size limit (100 MB)
+
+Link to the model: [https://drive.google.com/drive/u/0/folders/1vbvxt_gLQZdfCpfUOUpoB98UqNAxOQYZ](https://drive.google.com/drive/u/0/folders/1vbvxt_gLQZdfCpfUOUpoB98UqNAxOQYZ)
